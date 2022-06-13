@@ -1,24 +1,15 @@
-# README
+<h2> Blog API</h2>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h3>Hello guys</h3>
+<p> The api allows:</p>
 
-Things you may want to cover:
+<ul>
+  <li> Add articles</li>
+  <li> Edit your articles</li>
+  <li> Create comments</li>
+  <li> Delete one or all</li>
+</ul>
+<br>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p>Take a look at the front-end: <a href = https://github.com/MorganaDuarte/blog-web> Blog Web </a> </p>
+<p>Project create for study!</p>
